@@ -1,1 +1,2 @@
 More testing and learning how to use Git and the terminal.
+Gotta do more practise on this tool.
